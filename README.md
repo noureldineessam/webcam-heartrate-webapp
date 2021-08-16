@@ -20,3 +20,9 @@ You can do that by changing the last line in application.py to:
 app.run(debug=True,ssl_context='adhoc')
 ```
 View the Table of Content inside the codes to navigate through
+
+Read more about this through the following researches:
+-https://ep.liu.se/ecp/129/002/ecp16129002.pdf
+-https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-16-26-21434&id=175396
+-https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-18-10-10762&id=199381
+
