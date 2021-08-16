@@ -22,7 +22,7 @@ app.run(debug=True,ssl_context='adhoc')
 View the Table of Content inside the codes to navigate through
 
 Read more about this through the following researches:
-1-Real Time Heart Rate Monitoring From Facial RGB Color Video Using Webcam:https://ep.liu.se/ecp/129/002/ecp16129002.pdf
-2-Remote plethysmographic imaging using ambient light:https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-16-26-21434&id=175396
-3-Non-contact, automated cardiac pulse measurements using video imaging and blind source separation:https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-18-10-10762&id=199381
+1-[Real Time Heart Rate Monitoring From Facial RGB Color Video Using Webcam](https://ep.liu.se/ecp/129/002/ecp16129002.pdf)
+2-[Remote plethysmographic imaging using ambient light](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-16-26-21434&id=175396)
+3-[Non-contact, automated cardiac pulse measurements using video imaging and blind source separation](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-18-10-10762&id=199381)
 
