@@ -12,7 +12,7 @@ python application.py
 
 This will run the application on 
 ```
-localhost:5000
+http://127.0.0.1:5000/
 ```
 
 View the Table of Content inside the codes to navigate through
