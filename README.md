@@ -1,11 +1,11 @@
 # Webcam Heart Rate Web Application
 
-Start by installing the requirments 
+Start by installing the requirments:
 ```
 pip install requirements.txt 
 ```
 
-Then in the terminal inside the folder type
+Then in the terminal inside the folder type:
 ```
 python application.py
 ```
